@@ -1,0 +1,13 @@
+{
+    "id": "EMODS",
+    "name": "EGO Mods",
+    "author": ["Kayno"],
+    "description": "Jokers of my friends",
+    "prefix": "emods",
+    "main_file": "main.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
